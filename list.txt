@@ -6,7 +6,7 @@
 編集後のファイルをCommitし、GithubにPushしてください。
 最後にGithubからPull requestsを使って、あなたの更新を提出してください。
 
-s160XX
+s16030
 ..
 ..
 ..
